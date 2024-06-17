@@ -27,6 +27,8 @@ A Al Yussef, B Heyndels, P Le Boulaire - Kyklos, 2023
 ---
 
 ### Working papers:
+
+- Al Yussef, Alan and Heyndels, Bruno, Voter turnout and electoral polarisation: Evidence from the Dutch general elections (January 17, 2024). Available at SSRN: https://ssrn.com/abstract=
 ***Abstract.*** In this paper we examine the potential impact of voter turnout on electoral polarisation. Studying electoral results from the Dutch general elections in 2010, 2012 and 2017 on the local level, we show that polarisation is consistently, substantially, and significantly higher in municipalities with low levels of voter turnout. We argue that extremist voters are more likely to turnout on election days, and therefore if turnout is low, such voters are overrepresented, benefitting radical parties and driving up electoral polarisation. This is supported by the patterns observed in the data, where we observe that in municipalities with low levels of voter turnout, parties further away from the centre of the ideological spectrum tend to perform better than average. This observation is especially pronounced for radical parties at both extreme ends of the ideological spectrum.
 
-Al Yussef, Alan and Heyndels, Bruno, Voter turnout and electoral polarisation: Evidence from the Dutch general elections (January 17, 2024). Available at SSRN: https://ssrn.com/abstract=
+
