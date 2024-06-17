@@ -20,11 +20,11 @@ A Al Yussef, B Heyndels, P Le Boulaire - Kyklos, 2023
 
 ***Abstract.*** Political selection is crucial for the functioning of democracy. However, the practice—in education and sports contexts—of artificially dividing school-age children into different age groups leads to a considerable bias in this selection. The probability of becoming a (successful) politician depends on individuals' relative age. Being born shortly after the cut-off date significantly increases the probability that an individual will be politically successful later in life. Using a regression discontinuity design, we find strong evidence of such relative age effect (RAE) among a large sample of Belgian federal parliamentarians over the period 1950–2019 (N = 4032), but not among municipal councillors (N = 7387), nor among municipal candidates (N = 36,740) in the 2018 election. The estimated overrepresentation of federal members of the parliament (MPs) born immediately after the cut-off date is up to 90% compared to politicians born just before the cut-off date. The overrepresentation is observed over the whole period and thus seems to be deeply rooted in the political system. We find the RAE to have a gendered dimension: The effect is driven by early-born male politicians' overrepresentation. No significant RAE was found among female politicians.
 ---
-
+---
 #### >> Book chapters:
 - Al Yussef, A., Heyndels, B., & Le Boulaire, P. (2021). La vie au bureau: Een case study omtrent de evolutie van het publicatiegedrag in de economische wetenschappen. In Critical Contributions to Economics and Beyond (pp. 2-16). [1] Lexxion.
 ---
-
+---
 ### Working papers:
 ***Abstract.*** In this paper we examine the potential impact of voter turnout on electoral polarisation. Studying electoral results from the Dutch general elections in 2010, 2012 and 2017 on the local level, we show that polarisation is consistently, substantially, and significantly higher in municipalities with low levels of voter turnout. We argue that extremist voters are more likely to turnout on election days, and therefore if turnout is low, such voters are overrepresented, benefitting radical parties and driving up electoral polarisation. This is supported by the patterns observed in the data, where we observe that in municipalities with low levels of voter turnout, parties further away from the centre of the ideological spectrum tend to perform better than average. This observation is especially pronounced for radical parties at both extreme ends of the ideological spectrum.
 
