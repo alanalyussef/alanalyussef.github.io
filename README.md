@@ -2,7 +2,7 @@
 Doctoral researcher and pedagogical staff 
 #### @ APEC-Vrije Universiteit Brussel
 ### Research area:
-Political economy, microeconomics, political behavior, collective sentiment  
+Somewhere between political economy, microeconomics, political behavior, collective sentiment, economic sociology  
 
 ### Publications:
 #### >> Journal articles:
