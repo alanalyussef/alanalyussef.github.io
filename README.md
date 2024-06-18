@@ -1,11 +1,11 @@
 
 Doctoral researcher and pedagogical staff 
 #### @ [APEC-Vrije Universiteit Brussel](https://researchportal.vub.be/en/persons/alan-al-yussef)
-### [Research area](https://scholar.google.com/citations?hl=en&user=k21MASIAAAAJ&view_op=list_works&gmla=AOAOcb2cQsECMzsPd6ZQIB5r2Hc4trvCxgeCn4ospzSCurB3If2VabDRW3-VxjB0ul4zoqo8GV1fUW_F0OUkcrmy):
+### Research area:
 Somewhere between political economy, microeconomics, political behavior, collective sentiment, economic sociology  
 
 
-### Publications:
+### [Publications](https://scholar.google.com/citations?hl=en&user=k21MASIAAAAJ&view_op=list_works&gmla=AOAOcb2cQsECMzsPd6ZQIB5r2Hc4trvCxgeCn4ospzSCurB3If2VabDRW3-VxjB0ul4zoqo8GV1fUW_F0OUkcrmy):
 #### >> Journal articles:
 
 - [Al Yussef, A., & Heyndels, B. (2024). Socioeconomic anxieties and electoral polarization: insights from Belgian federal elections at the municipal level. *Acta Politica*, 1-26.](https://link.springer.com/article/10.1057/s41269-024-00336-8)
