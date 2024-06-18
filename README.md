@@ -1,7 +1,7 @@
 
 Doctoral researcher and pedagogical staff 
 #### @ [APEC-Vrije Universiteit Brussel](https://researchportal.vub.be/en/persons/alan-al-yussef)
-### Research area:
+### [Research area](https://scholar.google.com/citations?hl=en&user=k21MASIAAAAJ&view_op=list_works&gmla=AOAOcb2cQsECMzsPd6ZQIB5r2Hc4trvCxgeCn4ospzSCurB3If2VabDRW3-VxjB0ul4zoqo8GV1fUW_F0OUkcrmy):
 Somewhere between political economy, microeconomics, political behavior, collective sentiment, economic sociology  
 
 
