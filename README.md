@@ -5,7 +5,7 @@ In addition to my research activities, I serve as a teaching assistant for Micro
 
 
 ### Research area:
-Somewhere between political economy, microeconomics, political behavior, collective sentiment, economic sociology  
+Somewhere between political economy, microeconomics, political science, economic sociology  
 
 
 ### [Publications](https://scholar.google.com/citations?hl=en&user=k21MASIAAAAJ&view_op=list_works&gmla=AOAOcb2cQsECMzsPd6ZQIB5r2Hc4trvCxgeCn4ospzSCurB3If2VabDRW3-VxjB0ul4zoqo8GV1fUW_F0OUkcrmy):
