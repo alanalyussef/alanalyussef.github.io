@@ -1,19 +1,6 @@
 title: Alan Al Yussef
-logo: images/mypic_frame.png
-
+#logo: images/mypic_frame.png
+avatar: images/mypic_frame.png
 theme: jekyll-theme-minimal
-
-
-# Basic Information 
-title: Alan Al Yussef
-position: Ph.D. Candidate
-affiliation: Vrije Universiteit Brussel
-
-
-# Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Alan Al Yussef
-description: This is my academic website where my research activities can be consulted. Researfch papers, published or working papers will be added.
-#canonical: https://minimal-light-theme.yliu.me/
 
 
