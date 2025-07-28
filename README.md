@@ -24,7 +24,7 @@ Somewhere between political economy, microeconomics, political science, economic
 
 ---
 
-### Book chapters:
+#### >> Book chapters:
 - [Al Yussef, A., Heyndels, B., & Le Boulaire, P. (2021). La vie au bureau: Een case study omtrent de evolutie van het publicatiegedrag in de economische wetenschappen. In Critical Contributions to Economics and Beyond (pp. 2-16). [1] Lexxion.](https://researchportal.vub.be/en/publications/la-vie-au-bureau-een-case-study-omtrent-de-evolutie-van-het-publi)
 
 ---
