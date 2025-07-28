@@ -24,21 +24,21 @@ Somewhere between political economy, microeconomics, political science, economic
 
 ---
 
-#### >> Book chapters:
+### Book chapters:
 - [Al Yussef, A., Heyndels, B., & Le Boulaire, P. (2021). La vie au bureau: Een case study omtrent de evolutie van het publicatiegedrag in de economische wetenschappen. In Critical Contributions to Economics and Beyond (pp. 2-16). [1] Lexxion.](https://researchportal.vub.be/en/publications/la-vie-au-bureau-een-case-study-omtrent-de-evolutie-van-het-publi)
 
 ---
 
 ### Working papers:
 
-### Dozing Off the Centre: Low Turnout, High Polarisation
+#### Dozing Off the Centre: Low Turnout, High Polarisation
  Alan Al Yussef & Bruno Heyndels
 
 > ***Abstract.*** In this paper we examine the impact of voter turnout on electoral polarisation—the degree to which voters choose parties further away from the centre of the ideological space. Studying electoral results from the Dutch general elections in 2010, 2012 and 2017 on the local level, we show that polarisation is consistently, substantially, and significantly higher in municipalities with low levels of voter turnout. If centrist voters are more likely to abstain, low turnout implies the overrepresentation of polar voters. We show that the further away from the centre of the ideological spectrum, the more a party benefits from low turnout. This pattern is especially pronounced at both ends of the Left-Right ideological space. This overrepresentation of polar voters draws a wedge between the level of polarisation of actual voters and that of the wider population of voters. To provide causal evidence on the impact of turnout on polarisation, we employ an instrumental variable approach, where we use the amount of rainfall on election day as an exogenous variable.
 
 
 
-### A Political Economy of Culture Wars: Polarisation, Sticky  Preferences and Mobilisation
+#### A Political Economy of Culture Wars: Polarisation, Sticky  Preferences and Mobilisation
  Alan Al Yussef  
 
 > ***Abstract.*** This paper presents a theoretical model explaining—from the supply side—why political parties may increase campaign resources devoted to certain issues, even without shifts in public demand. The core mechanism, examined within a two-dimensional issue space, is that heightened internal polarisation on one dimension decreases the marginal productivity of campaigning on that dimension, pushing parties to redirect resources toward the other dimension. Thus, the model illustrates how intra-group polarisation, by altering relative campaign costs across issue dimensions, contributes directly to broader inter-group polarisation. Additionally, external shocks affecting voter positions across both issue dimensions can encourage parties to reallocate resources away from the more volatile dimension to the one characterised by more sticky preferences, enhancing campaign cost-effectiveness. This dynamic helps clarify why, following significant economic disruptions, political parties often--paradoxically--increase their emphasis on cultural and identity-related issues rather than economic policy. Similarly, rising income inequality can intensify internal polarisation on economic issues, making campaigning on cultural and identity-related issues relatively more efficient.  
