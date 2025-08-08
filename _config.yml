@@ -4,9 +4,4 @@ description: Doctoral researcher and pedagogical staff
 
 
 theme: jekyll-theme-minimal
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "Projects"
-    url: "/projects/"
 
