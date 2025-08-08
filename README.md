@@ -1,8 +1,4 @@
----
-layout: default
-title: Research
-permalink: /research
----
+
 
 
 ### About me:
