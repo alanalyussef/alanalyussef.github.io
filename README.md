@@ -1,3 +1,10 @@
+---
+layout: default
+title: Projects
+permalink: /projects/
+---
+
+
 ### About me:
 Hello! my name is Alan Al Yussef. I am a PhD candidate in economics at the department of Applied Economics ([**APEC**](https://researchportal.vub.be/en/persons/alan-al-yussef)) at the Vrije Universiteit Brussel ([**VUB**](https://www.vub.be/en)). I research how economic circumstances shape collective behavior. 
 The current focus of my research is on political preferences and voting behavior. For my research, besides tapping into the rich body of theory and methodologies economics offers, I often wander beyond the disciplinary boundaries in search of different perspectives and new insights. My oft-visited territories are sociology, political science and social psychology. 
