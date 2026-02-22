@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "CV"
-permalink: /cv/
+title: "Research"
+permalink: /research/
 ---
 
 # Research
