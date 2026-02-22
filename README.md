@@ -1,6 +1,6 @@
 
 
-
+[About](/) · [CV](/cv/) · [Teaching](/teaching/) · [Contact](/contact/)
 
 Hello! I am a postdoctoral researcher in economics at the department of Applied Economics ([**APEC**](https://researchportal.vub.be/en/persons/alan-al-yussef)) at the Vrije Universiteit Brussel ([**VUB**](https://www.vub.be/en)). I research how economic circumstances shape collective behavior and how institutions moderate this dynamic. 
 The current focus of my research is on political preferences and voting behavior. For my research, besides tapping into the rich body of theory and methodologies economics offers, I often wander beyond the disciplinary boundaries in search of different perspectives and new insights. My oft-visited territories are sociology, political science and social psychology. 
