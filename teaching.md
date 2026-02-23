@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Research"
+title: "Teaching"
 permalink: /teaching/
 ---
 [About](/) · [Research](/research/) . [Teaching](/teaching/) 
