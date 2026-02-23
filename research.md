@@ -3,7 +3,7 @@ layout: default
 title: "Research"
 permalink: /research/
 ---
-[About](/) · [Research](/research/) . [Teaching](/teaching/) ·  [Contact](/contact/)
+[About](/) · [Research](/research/) . [Teaching](/teaching/) 
 # Research
 
 ### Research area:
