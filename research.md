@@ -3,7 +3,7 @@ layout: page
 title: "Research"
 permalink: /research/
 ---
-[About](/) · [CV](/cv/) · [Research](/research/) . [Teaching](/teaching/) ·  [Contact](/contact/)
+[About](/) · [Research](/research/) . [Teaching](/teaching/) ·  [Contact](/contact/)
 # Research
 
 ### Research area:
