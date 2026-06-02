@@ -32,7 +32,7 @@ Somewhere between political economy, microeconomics, political science, economic
 
 ### Working papers:
 
-#### [Turnout and the Distortion of Representation: The Case of Electoral Polarisation](https://www.researchsquare.com/article/rs-8850742/v1) (Accepted for publication in Public Choice)
+#### [Turnout and the Distortion of Representation: The Case of Electoral Polarisation](https://www.researchsquare.com/article/rs-8850742/v1) <span style="color:green">(Accepted for publication in Public Choice)</span>
  Alan Al Yussef 
 
 > ***Abstract.*** In this paper we examine the impact of voter turnout on electoral polarisation—the degree to which voters are dispersed in their party choice in elections. Low turnout alters the ideological composition of the electorate by mobilising voters who are most alienated from the expected governing coalition. We develop a theoretical model showing that heterogenous turnout constitutes a mean-preserving spread of the population’s ideological distribution. The resulting distortion in representation is not arbitrary: the electorate appears more polarised than the wider population. Studying electoral results from the Dutch general elections in 2010, 2012 and 2017 on the local level, we show that polarisation is consistently, substantially, and significantly higher in municipalities with low levels of voter turnout. If centrist voters are more likely to abstain, low turnout implies the overrepresentation of polar voters. We show that the farther a party is from the ideological centre, the more it benefits from low turnout, with this pattern especially pronounced at both ends of the left–right spectrum.
