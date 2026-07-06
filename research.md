@@ -32,12 +32,6 @@ Somewhere between political economy, microeconomics, political science, economic
 
 ---
 
-### Working papers:
-
-#### [Turnout and the Distortion of Representation: The Case of Electoral Polarisation](https://www.researchsquare.com/article/rs-8850742/v1) <span style="color:green">(Accepted for publication in Public Choice, 1 June 2026)</span>
- Alan Al Yussef 
-
-> ***Abstract.*** This paper examines the relationship between voter turnout and electoral polarization. While much of the existing literature focuses on how polarization affects turnout, we analyze the next step in the causal chain: how turnout shapes electoral outcomes. We propose a simple theoretical model in which turnout depends on voters’ aversion to the expected governing coalition, which increases with the distance between the voter’s ideal point and the anticipated policy platform. This generates heterogeneous participation across the ideological spectrum, leading to a compositional reweighting of the electorate. When the governing coalition is expected to be centrist, centrist voters are underrepresented while voters at the ideological extremes are overrepresented, resulting in higher levels of observed electoral polarization. We test the theoretical predictions empirically, using municipality-level data from Dutch general elections. The results show that turnout has systematically heterogeneous effects across parties depending on their ideological position, with more extreme parties benefiting disproportionately from lower turnout. Consistent with the theory, lower turnout is associated with higher levels of electoral polarization. These findings highlight a compositional mechanism through which turnout influences electoral outcomes, resulting in a distorted picture in which electoral polarization exceeds what would be implied by the underlying distribution of ideological preferences in the population.
 
 #### A Political Economy of Culture Wars: Polarisation, Sticky  Preferences and Mobilisation
  Alan Al Yussef  
