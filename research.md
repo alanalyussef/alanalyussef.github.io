@@ -9,9 +9,11 @@ permalink: /research/
 ### Research area:
 Somewhere between political economy, microeconomics, political science, economic sociology  
 
-
 ### [Publications](https://scholar.google.com/citations?hl=en&user=k21MASIAAAAJ&view_op=list_works&gmla=AOAOcb2cQsECMzsPd6ZQIB5r2Hc4trvCxgeCn4ospzSCurB3If2VabDRW3-VxjB0ul4zoqo8GV1fUW_F0OUkcrmy):
 #### >> Journal articles:
+- [Al Yussef, A. Turnout and the distortion of representation: the case of electoral polarization. *Public Choice* (2026). https://doi.org/10.1007/s11127-026-01429-y](https://link.springer.com/article/10.1007/s11127-026-01429-y)
+
+> ***Abstract*** This paper examines the relationship between voter turnout and elec0737toral polarization. While much of the existing literature focuses on how polarization affects turnout, we analyze the next step in the causal chain: how turnout shapes electoral outcomes. We propose a simple theoretical model in which turnout depends on voters’ aversion to the expected governing coalition, which increases with the distance between the voter’s ideal point and the anticipated policy platform. This generates heterogeneous participation across the ideological spectrum, leading to a compositional reweighting of the electorate. When the governing coalition is expected to be centrist, centrist voters are underrepresented while voters at the ideological extremes are overrepresented, resulting in higher levels of observed electoral polarization. We test the theoretical predictions empirically, using municipality-level data from Dutch general elections. The results show that turnout has systematically heterogeneous effects across parties depending on their ideological position, with more extreme parties benefiting disproportionately from lower turnout. Consistent with the theory, lower turnout is associated with higher levels of electoral polarization. These findings highlight a compositional mechanism through which turnout influences electoral outcomes, resulting in a distorted picture in which electoral polarization exceeds what would be implied by the underlying distribution of ideological preferences in the population.
 
 - [Al Yussef, A., & Heyndels, B. (2024). Socioeconomic anxieties and electoral polarization: insights from Belgian federal elections at the municipal level. *Acta Politica*, 1-26.](https://link.springer.com/article/10.1057/s41269-024-00336-8)
   
