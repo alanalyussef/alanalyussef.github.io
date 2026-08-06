@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Teaching"
+permalink: /teaching/
+---
+[About](/) · [Research](/research/) . [Teaching](/teaching/) 
+
 Alan Al Yussef		Curriculum Vitae
 Brussels, Belgium | +32 483 270 718 | yussef.alan@gmail.com | alan.al.yussef@vub.be | https://alanalyussef.github.io
 PROFILE
