@@ -14,8 +14,4 @@ permalink: /cv/
   style="border: none;">
 </iframe>
 
-<p>
-  <a href="{{ '/assets/CV_Alan_Al_Yussef_AUG26.pdf' | relative_url }}">
-    Download the CV as a PDF
-  </a>
-</p>
+
