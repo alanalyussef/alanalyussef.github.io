@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Teaching"
-permalink: /teaching/
+title: "CV"
+permalink: /cv/
 ---
 [About](/) · [Research](/research/) . [Teaching](/teaching/) 
 
