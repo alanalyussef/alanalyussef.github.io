@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 [About](/) · [Research](/research/) . [Teaching](/teaching/) 
 
-[Download my CV (PDF)]({{ "/assets/CV_Alan_Al_Yussef_AUG26.pdf" | relative_url }})
+[Download my CV (PDF)]({{ "/assets/Alan_Al_Yussef_CV.pdf" | relative_url }})
 
 <iframe
   src="{{ '/assets/CV_Alan_Al_Yussef_AUG26.pdf' | relative_url }}"
