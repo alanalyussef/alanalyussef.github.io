@@ -1,17 +1,9 @@
 ---
-layout: default
+layout: null
 title: "CV"
 permalink: /cv/
 ---
-[About](/) · [Research](/research/) . [Teaching](/teaching/) 
-
-[Download my CV (PDF)]({{ "/assets/Alan_Al_Yussef_CV.pdf" | relative_url }})
-
 <iframe
   src="{{ '/assets/Alan_Al_Yussef_CV.pdf' | relative_url }}"
-  width="100%"
-  height="1000px"
-  style="border: none;">
+  style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; border: none;">
 </iframe>
-
-
