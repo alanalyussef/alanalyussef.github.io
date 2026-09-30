@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV (PDF)]({{ "/assets/Alan_Al_Yussef_CV.pdf" | relative_url }})
 
 <iframe
-  src="{{ '/CV_Alan_Al_Yussef_AUG26.pdf' | relative_url }}"
+  src="{{ '/Alan_Al_Yussef_CV.pdf' | relative_url }}"
   width="100%"
   height="1000px"
   style="border: none;">
