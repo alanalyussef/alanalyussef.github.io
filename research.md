@@ -37,13 +37,7 @@ Somewhere between political economy, microeconomics, political science, economic
 
 #### [Ambiguously human: LLMs Over-ideologize Political Statements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7610278) [Working paper]
 Alan Al Yussef  
-> ***Abstract.*** Large language models (LLMs) are increasingly proposed as substitutes for expert judgment in the production of democratic information goods. This paper examines whether
-LLMs can replicate one specific form of political expertise: the ideological classification of policy statements. Using 74 statements from the Belgian Voting Aid Application (VAA), we
-compare classifications produced by four leading LLMs with benchmark labels assigned by expert political scientists. We find that LLMs classify clearly ideological statements with
-impressive accuracy, achieving scores exceeding 97% accuracy. However, all models struggle with statements that experts classify as neutral. Rather than exhibiting a
-consistent left- or right-wing bias, the models display a systematic tendency to assign ideological meaning to statements that human coders regard as non-ideological. We refer
-to this pattern as over-ideologization. The findings suggest that LLMs can substantially reduce the costs of political coding and may serve as useful assistants in the production of
-democratic information goods. However, they remain imperfect substitutes for expert judgment because they systematically under-recognize political ambiguity.
+> ***Abstract.*** Large language models (LLMs) are increasingly proposed as substitutes for expert judgment in the production of democratic information goods, raising question about their reliability and alignment. This paper examines whether LLMs can replicate one specific form of political expertise: the ideological classification of policy statements. Using 74 statements from the Belgian Voting Aid Application (VAA), we compare classifications produced by four leading LLMs with benchmark labels assigned by expert political scientists. We find that LLMs classify clearly ideological statements with impressive accuracy, achieving scores exceeding 97% accuracy. However, all tested models struggle with statements that experts classify as neutral, displaying a systematic tendency to assign ideological meaning to statements that human coders regard as non-ideological. We refer to this pattern as over-ideologization. The findings suggest that LLMs can substantially reduce the costs of production of information goods critical to the democratic process. However, dealing with ambiguity maybe a challenge yet to overcome.
 
 #### Coding alone: AI and The Unravelling of Collaborative Networks.  [Research in progress]
 Alan Al Yussef
