@@ -33,15 +33,9 @@ Somewhere between political economy, microeconomics, political science, economic
 ---
 
 
-
-
 ### Workingk papers and research in progress
-#### A Political Economy of Culture Wars: Polarisation, Sticky  Preferences and Mobilisation [PhD Chapter]
- Alan Al Yussef  
 
-> ***Abstract.*** This paper presents a theoretical model explaining—from the supply side—why political parties may increase campaign resources devoted to certain issues, even without shifts in public demand. The core mechanism, examined within a two-dimensional issue space, is that heightened internal polarisation on one dimension decreases the marginal productivity of campaigning on that dimension, pushing parties to redirect resources toward the other dimension. Thus, the model illustrates how intra-group polarisation, by altering relative campaign costs across issue dimensions, contributes directly to broader inter-group polarisation. Additionally, external shocks affecting voter positions across both issue dimensions can encourage parties to reallocate resources away from the more volatile dimension to the one characterised by more sticky preferences, enhancing campaign cost-effectiveness. This dynamic helps clarify why, following significant economic disruptions, political parties often--paradoxically--increase their emphasis on cultural and identity-related issues rather than economic policy. Similarly, rising income inequality can intensify internal polarisation on economic issues, making campaigning on cultural and identity-related issues relatively more efficient.
-
-#### Ambiguously human: LLMs Over-ideologize Political Statements [Research in progress]
+#### [Ambiguously human: LLMs Over-ideologize Political Statements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7610278) [Working paper]
 Alan Al Yussef  
 > ***Abstract.*** Large language models (LLMs) are increasingly proposed as substitutes for expert judgment in the production of democratic information goods. This paper examines whether
 LLMs can replicate one specific form of political expertise: the ideological classification of policy statements. Using 74 statements from the Belgian Voting Aid Application (VAA), we
@@ -53,3 +47,10 @@ democratic information goods. However, they remain imperfect substitutes for exp
 
 #### Coding alone: AI and The Unravelling of Collaborative Networks.  [Research in progress]
 Alan Al Yussef
+
+#### A Political Economy of Culture Wars: Polarisation, Sticky  Preferences and Mobilisation [PhD Chapter]
+ Alan Al Yussef  
+
+> ***Abstract.*** This paper presents a theoretical model explaining—from the supply side—why political parties may increase campaign resources devoted to certain issues, even without shifts in public demand. The core mechanism, examined within a two-dimensional issue space, is that heightened internal polarisation on one dimension decreases the marginal productivity of campaigning on that dimension, pushing parties to redirect resources toward the other dimension. Thus, the model illustrates how intra-group polarisation, by altering relative campaign costs across issue dimensions, contributes directly to broader inter-group polarisation. Additionally, external shocks affecting voter positions across both issue dimensions can encourage parties to reallocate resources away from the more volatile dimension to the one characterised by more sticky preferences, enhancing campaign cost-effectiveness. This dynamic helps clarify why, following significant economic disruptions, political parties often--paradoxically--increase their emphasis on cultural and identity-related issues rather than economic policy. Similarly, rising income inequality can intensify internal polarisation on economic issues, making campaigning on cultural and identity-related issues relatively more efficient.
+
+
